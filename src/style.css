@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+  color:blue;
+}
+p.ready{
+  color:red;
+  font-size:1.2em;
+  font-family: Helvetica;
+}
