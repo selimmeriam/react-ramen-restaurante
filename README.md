@@ -16,7 +16,7 @@ This is a one page website means that there isn't any redirected paths. Also all
 ## Tools & Libraries
 Project is created with:
 * react version: 16.14
-* react-router-dom version: 16.14
+* react-router-dom version: 5.3
 * react-router-hash-link version: 2.2
 
 ## Getting the React App running
