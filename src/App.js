@@ -11,13 +11,6 @@ export default function App() {
       
      </Router>
    
-     {/* <h1>Hello </h1>
-      <Router>
-        <Navbar/>
-        <Switch>
-            <Route path="/" exact component= {Home} />
-          </Switch>
-       </Router>*/}
        
     </>
   );
